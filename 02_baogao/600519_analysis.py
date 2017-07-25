@@ -24,7 +24,7 @@ year = 2017
 def get_all_data(stock_id):
     # 读取利润表数据
     lrb = pd.read_csv(
-        r'data/%s_lrb.csv' % (stock_id),
+        r'00_data/%s_lrb.csv' % (stock_id),
         encoding='utf-8',
         header=0,
         index_col=None)
