@@ -9,7 +9,9 @@ pandas_learning:pandas学习笔记，原始出处为官方文档
 
 02_baogao：利用此前生成的图片自动化生成财务分析的docx文档；需安装python-docx模块
 
-贵州茅台：较完整的自动化财务报表生成示例
+03_maotai_analysis：较完整的自动化财务报表生成示例,以贵州茅台为例
+
+
 
 
 

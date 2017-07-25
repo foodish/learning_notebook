@@ -12,7 +12,7 @@ import numpy as np
 # In[2]:
 
 # 股票代号
-stock_0 = 'SH600519' #贵州茅台
+stock_0 = 'SH600519' #03_maotai_analysis
 
 # 输入年份（如年报数据只到2016年，则输入2017）
 year = 2017
@@ -76,7 +76,7 @@ def get_data_ratio(data):
 # In[17]:
 
 # 根据数据进行作图
-def data_plot(data, ratio, legend='贵州茅台', kind='bar'):
+def data_plot(data, ratio, legend='03_maotai_analysis', kind='bar'):
     l_0 = len(data)
     s_0 = list(range(l_0))
     x_0 = np.array(s_0)
