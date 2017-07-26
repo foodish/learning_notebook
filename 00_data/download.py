@@ -57,8 +57,7 @@ def download_llb(url):
 
 with open('symbol.txt', 'r', encoding='utf-8') as f:
     symbol = [s.strip() for s in f.readlines()]
-len(symbol)
-symbol
+
 
 
 # In[8]:
@@ -70,7 +69,7 @@ llb_urls = [llb_base_url + i for i in symbol]
 
 # In[11]:
 
-llb_urls
+# llb_urls
 
 
 # In[ ]:
