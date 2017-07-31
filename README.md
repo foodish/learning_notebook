@@ -19,4 +19,4 @@ http://nbviewer.jupyter.org/github/foodish/learning_notebook/blob/master/02_baog
 http://nbviewer.jupyter.org/github/foodish/learning_notebook/blob/master/03_maotai_analysis/600519_analysis.ipynb
 
 04_hangye：白酒行业分析
-http://nbviewer.jupyter.org/github/foodish/learning_notebook/blob/master/04_hangye/%E7%99%BD%E9%85%92%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90.ipynb
+
