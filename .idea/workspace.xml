@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cf3b959-8ad4-40b9-9c3d-80da7b8d3202" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_maotai_crawler/data_analysis.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/yili_meng_analysis-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng_analysis.ipynb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/analysis-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/analysis.ipynb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/mengniu_tmall.csv" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/mengniu_tmall.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_tmall.csv" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_tmall.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_maotai_analysis/600519_analysis.ipynb" afterPath="$PROJECT_DIR$/03_maotai_analysis/600519_analysis.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" afterPath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/data_analysis.ipynb" afterPath="$PROJECT_DIR$/05_maotai_crawler/data_analysis.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/yili_meng_analysis-checkpoint.ipynb" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/yili_meng_analysis-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng_analysis.ipynb" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng_analysis.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="356">
-                <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <first_editor relative-caret-position="406">
+                <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -432,13 +430,21 @@
       <option name="project" value="LOCAL" />
       <updated>1502868093799</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add analysis for crawler data">
+      <created>1502879018329</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1502879018329</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31506848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31506848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -481,7 +487,8 @@
     <MESSAGE value="白酒行业分析" />
     <MESSAGE value="add contents" />
     <MESSAGE value="convent to utf-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="convent to utf-8" />
+    <MESSAGE value="add analysis for crawler data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add analysis for crawler data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -624,8 +631,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="356">
-            <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <first_editor relative-caret-position="406">
+            <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
