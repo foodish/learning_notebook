@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5cf3b959-8ad4-40b9-9c3d-80da7b8d3202" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_maotai_analysis/600519_analysis.ipynb" afterPath="$PROJECT_DIR$/03_maotai_analysis/600519_analysis.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" afterPath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/data_analysis.ipynb" afterPath="$PROJECT_DIR$/05_maotai_crawler/data_analysis.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/yili_meng_analysis-checkpoint.ipynb" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/yili_meng_analysis-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng_analysis.ipynb" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng_analysis.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -444,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502903437372</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add analysis file">
+      <created>1502903484356</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1502903484356</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -495,7 +498,8 @@
     <MESSAGE value="convent to utf-8" />
     <MESSAGE value="add analysis for crawler data" />
     <MESSAGE value="add contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="add contents" />
+    <MESSAGE value="add analysis file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add analysis file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
