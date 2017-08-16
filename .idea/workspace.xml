@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cf3b959-8ad4-40b9-9c3d-80da7b8d3202" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/analysis-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/analysis.ipynb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/03_maotai_analysis/data/茅台估值.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Untitled.ipynb" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_maotai_crawler/data_analysis.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/yili_meng_analysis-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng_analysis.ipynb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/analysis-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/analysis.ipynb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/emaotai_crawler-checkpoint.ipynb" afterPath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/emaotai_crawler-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/maotai_tmall-checkpoint.ipynb" afterPath="$PROJECT_DIR$/05_maotai_crawler/.ipynb_checkpoints/maotai_tmall-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/emaotai_crawler.ipynb" afterPath="$PROJECT_DIR$/05_maotai_crawler/emaotai_crawler.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/maotai_crawler.py" afterPath="$PROJECT_DIR$/05_maotai_crawler/maotai_crawler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/maotai_crawler_tmall.py" afterPath="$PROJECT_DIR$/05_maotai_crawler/maotai_crawler_tmall.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_maotai_crawler/maotai_tmall.ipynb" afterPath="$PROJECT_DIR$/05_maotai_crawler/maotai_tmall.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/yili_meng-checkpoint.ipynb" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/.ipynb_checkpoints/yili_meng-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/mengniu_tmall.csv" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/mengniu_tmall.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng.ipynb" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng.py" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_meng.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_tmall.csv" afterPath="$PROJECT_DIR$/06_tmall_crawls/yili_mengniu/yili_tmall.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -432,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502865851678</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="convent to utf-8">
+      <created>1502868093799</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1502868093799</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -480,7 +480,8 @@
     <MESSAGE value="reademe" />
     <MESSAGE value="白酒行业分析" />
     <MESSAGE value="add contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="add contents" />
+    <MESSAGE value="convent to utf-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="convent to utf-8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
