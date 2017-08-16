@@ -1,5 +1,7 @@
 # learning_notebook
-建议直接安装Anaconda；使用时直接使用ipython notebook最为方便
+建议直接安装Anaconda；使用时直接运行py文件或者用ipython notebook运行ipynb文件。
+
+一般情况下，data文件夹为数据文件夹，pic为图片文件夹。
 
 网上直接查看的话，建议使用ipynb格式，在这里查看（把github里的ipynb文件地址粘贴进去即可查看，下面直接给出了地址）：
 http://nbviewer.jupyter.org/
@@ -22,3 +24,6 @@ http://nbviewer.jupyter.org/github/foodish/learning_notebook/blob/master/03_maot
 
 http://nbviewer.jupyter.org/github/foodish/learning_notebook/blob/master/04_hangye/%E7%99%BD%E9%85%92%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90.ipynb
 
+05_maotai_crawler:茅台爬虫
+
+06_tmall_crawlers:天猫爬虫
