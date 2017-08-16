@@ -61,7 +61,7 @@ def get_data(url):
 
 
 def save_data(data):
-    with codecs.open('maotai_tmall.csv', 'a', encoding='utf_8_sig') as f:
+    with codecs.open('maotai_tmall.csv', 'a', newline='', encoding='utf_8_sig') as f:
         csv_file = csv.writer(f, dialect='excel')
         for i in tqdm(data):
             csv_file.writerow(i)

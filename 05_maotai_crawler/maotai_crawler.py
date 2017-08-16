@@ -108,7 +108,7 @@ for url in tqdm(product_urls):
 
 # In[184]:
 
-with codecs.open('maotai_info.csv', 'a', encoding='utf_8_sig') as f:
+with codecs.open('maotai_info.csv', 'a', newline='', encoding='utf_8_sig') as f:
     csv_file = csv.writer(f, dialect='excel')
     for i in tqdm(data):
         csv_file.writerow(i)
