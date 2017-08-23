@@ -10,3 +10,9 @@
 2.1 csv文件各列依次是：时间，商品名，价格，销量
 
 2.2 时间格式默认精确到日
+
+4.emaotai_analysis.ipynb;tmall_analysis.ipynb分别为茅台商城和天猫数据的分析
+
+5.jd_comments.ipynb是抓取京东茅台旗舰店53度飞天的评论数据进行分析
+
+6.查询数据.ipynb用于查询茅台商城每天的53度茅台和生肖茅台酒数据
