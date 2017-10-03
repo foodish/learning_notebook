@@ -3,8 +3,7 @@
 
 一般情况下，data文件夹为数据文件夹，pic为图片文件夹。
 
-网上直接查看的话，建议使用ipynb格式，在这里查看（把github里的ipynb文件地址粘贴进去即可查看，下面直接给出了地址）：
-http://nbviewer.jupyter.org/
+网上直接查看的话，建议使用ipynb格式，在这里查看（把github的项目或文件地址粘贴进去即可查看，下面直接给出了地址）：http://nbviewer.jupyter.org/github/foodish/learning_notebook/tree/master/
 
 pandas_learning:pandas学习笔记，原始出处为官方文档
 
